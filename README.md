@@ -1,5 +1,5 @@
 # predicted-ellipse-area
-Calculation of the 95% predicted ellipse area in R, following the code as published by Dr. P Schubert and Dr. M. Kirschner
+Calculation of the 95% predicted ellipse area in R, following the code as published by Dr. P Schubert and Dr. M. Kirschner.
 
 ## Introduction 
 This repository is a fairly simple and straightforward one. It contains a single `R` file with the code to create a 95% Predicted Ellipse Area, as described by dr. P. Schubert and dr. M. Kirchner in 2014 in the paper [Ellipse area calculations and their applicability in posturography.](https://doi.org/10.1016/j.gaitpost.2013.09.001) as published in Gait & Posture, 2014, 39, 1: page 558-522.  
